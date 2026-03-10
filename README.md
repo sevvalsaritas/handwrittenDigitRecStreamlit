@@ -225,7 +225,7 @@ https://streamlit.io/
 
 # 👩‍💻 Author
 
-Şevval Özlem
+Şevval Özlem SARITAŞ
 
 GitHub:  
 https://github.com/sevvalsaritas
